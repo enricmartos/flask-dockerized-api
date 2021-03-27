@@ -3,7 +3,7 @@
 ## Description
 
 This simple REST API is a dockerized Flask application.
-It just contains a single endpoint with a simple classifier to verify that it runs as expected.
+It just contains a single endpoint with a ML classifier to verify that it runs as expected.
 
 ## Build setup
 
