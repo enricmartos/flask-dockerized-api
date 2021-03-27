@@ -7,7 +7,7 @@ app = Flask(__name__)
 port = int(os.environ.get('PORT', 8080))
 
 
-@app.route('/')
+@app.route('/predict-breast-cancer')
 def hello_world():
     classifier = Classifier()
     accuracy_score = classifier.predict_breast_cancer()
