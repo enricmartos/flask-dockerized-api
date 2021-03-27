@@ -15,7 +15,7 @@ It just contains a single endpoint with a simple classifier to verify that it ru
 $ docker-compose up
 ```
 
-- Open your browser and test the application on *http://localhost:8080/resteasy-dockerized-api/api/sayHello*
+- Open your browser and test the application on *http://localhost:8080/predict-breast-cancer*
 
 ## Sources
 
